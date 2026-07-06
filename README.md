@@ -439,13 +439,3 @@ MIT — see [LICENSE](LICENSE).
 
 ---
 
-<<<<<<< HEAD
-<div align="center">
-
-*folsec-auditor surfaces what exists right now.*
-*[FolSec](https://folsec.com) tells you the moment anything changes.*
-
-</div>
-=======
-*NTFS Auditor-auditor surfaces what exists right now. [NTFS Auditor](https://NTFS Auditor.com) tells you the moment anything changes.*
->>>>>>> aec8b23 (tune: optimize risk scoring to prevent alert fatigue on read-only auth user shares)
