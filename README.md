@@ -7,9 +7,8 @@
 <img src="https://img.shields.io/badge/Status-V1%20MVP-red?style=flat-square" />
 <img src="https://img.shields.io/github/languages/top/aymaan-balbale/folsec_auditorV1?style=flat-square" />
 
-# folsec-auditor
-=======
 # NTFS Auditor-auditor
+=======
 >>>>>>> aec8b23 (tune: optimize risk scoring to prevent alert fatigue on read-only auth user shares)
 
 **NTFS / ACL Risk Auditor — Point-in-Time Gap Analyzer for Enterprise File Servers**
